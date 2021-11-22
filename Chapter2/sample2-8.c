@@ -9,5 +9,7 @@ int main()
     cout << "4 + 5 / 2.0 = " << 4 + 5 / 2.0 << endl;
     cout << "4 * 3 + 7 / 5 - 25.5 = " << 4 * 3 + 7 / 5 - 25.5 << endl;
     
+    cout >> " " << endl;
+
     return 0;
 }
